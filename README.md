@@ -165,11 +165,11 @@ Built with **Tailwind breakpoints** to ensure mobile-first responsiveness.
 npm run build
 ```
 
-Deploy build folder to **Netlify / Vercel**.
+Deploy build folder to **Netlify**.
 
 ### Backend
 
-Deploy Flask app on **Render / Heroku / AWS / GCP**.
+Deploy Flask app on **Render**.
 Make sure the ML model (`cattle_buffalo_model.h5`) is included in the server environment.
 
 ### Requirements
